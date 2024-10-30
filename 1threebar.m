@@ -1,4 +1,5 @@
 n = input('n:');
+// hello form bashar
 
 fibo = zeros(1,n);
 
